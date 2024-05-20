@@ -1,0 +1,18 @@
+test: D:\ImageProcessing\project\Dataset
+train: D:\ImageProcessing\project\Dataset\train
+val: D:\ImageProcessing\project\Dataset\valid
+names:
+- Metal
+- cardboard
+- glass
+- paper
+- plastic
+- trash
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: dataset-test-ypl47
+  url: https://universe.roboflow.com/yk-d9yxp/dataset-test-ypl47/dataset/1
+  version: 1
+  workspace: yk-d9yxp
+

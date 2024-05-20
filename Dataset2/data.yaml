@@ -1,0 +1,16 @@
+names:
+- Metal
+- cardboard
+- glass
+- paper
+- plastic
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: dataset-test-ypl47
+  url: https://universe.roboflow.com/yk-d9yxp/dataset-test-ypl47/dataset/2
+  version: 2
+  workspace: yk-d9yxp
+test: D:\ImageProcessing\Dataset2
+train: D:\ImageProcessing\Dataset2\train
+val: D:\ImageProcessing\Dataset2\valid

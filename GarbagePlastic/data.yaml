@@ -1,0 +1,12 @@
+names:
+- Plastic
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: garbage-awyac
+  url: https://universe.roboflow.com/yk-d9yxp/garbage-awyac/dataset/1
+  version: 1
+  workspace: yk-d9yxp
+test: D:\ImageProcessing\project\GarbagePlastic
+train: D:\ImageProcessing\project\GarbagePlastic\train
+val: D:\ImageProcessing\project\GarbagePlastic\valid
